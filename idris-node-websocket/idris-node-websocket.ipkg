@@ -1,0 +1,6 @@
+package idris-node-websocket
+
+modules = Node.WebSocket
+
+depends = prelude, base, idris-node-http
+sourcedir = "src"

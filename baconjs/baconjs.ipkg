@@ -1,0 +1,6 @@
+package baconjs
+
+modules = Bacon.JS
+
+depends = prelude, base, idris-js-values
+sourcedir = "src"

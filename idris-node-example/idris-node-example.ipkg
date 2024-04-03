@@ -1,0 +1,17 @@
+package ledger
+
+modules =
+        Main
+
+depends =
+        prelude,
+        base,
+        contrib,
+        idris-node-http,
+        idris-node-websocket,
+        idris-js-values,
+	baconjs
+
+executable = node-test
+sourcedir = "src"
+main = Main

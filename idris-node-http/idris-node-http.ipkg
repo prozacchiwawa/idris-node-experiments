@@ -1,0 +1,6 @@
+package idris-node-http
+
+modules = Node.Http
+
+depends = prelude, base
+sourcedir = "src"

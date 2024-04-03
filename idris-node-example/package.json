@@ -1,0 +1,9 @@
+{
+  "name": "idris-node-example",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "baconjs": "^3.0.17",
+    "btoa": "^1.2.1",
+    "websocket": "^1.0.34"
+  }
+}

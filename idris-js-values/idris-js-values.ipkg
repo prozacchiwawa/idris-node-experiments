@@ -1,0 +1,6 @@
+package idris-js-values
+
+modules = JS.Value, JS.Promise
+
+depends = prelude, base
+sourcedir = "src"
